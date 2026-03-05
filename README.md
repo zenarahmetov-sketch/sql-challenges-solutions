@@ -8,7 +8,7 @@ This repository contains my solutions to various SQL challenges from platforms l
 * **Concepts:** Subqueries, Window Functions (RANK, DENSE_RANK), CTEs, Joins, Aggregations.
 
 ### Structure
-Each `.sql` file follows a specific format to be compatible with my [SQL Injector](https://github.com/zenarahmetov-sketch/sql-injector):
+Each `.sql` file follows a specific format to be compatible with my [SQL Collector](https://github.com/zenarahmetov-sketch/sql-portfolio-collector):
 * **Metadata Header:** Title, Difficulty, and Category are defined in comments.
 * **Code:** Clean, executable SQL query.
 
